@@ -1,5 +1,5 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: Baking a Fool of Myself
 ---
 ## The index page
 
