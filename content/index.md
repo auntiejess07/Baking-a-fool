@@ -1,42 +1,20 @@
 ---
 title: Baking a Fool of Myself
 ---
-## The index page
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+# Welcome to Baking a Fool of Myself!
 
-## Editing pages
+This is my baking knowledge base, where I organize recipes and baking ideas so they are easy to find. Whether I'm making something sweet or savory, I can browse by the type of baked good I'm looking for.
 
-You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor. 
+## Main Categories
 
-For many people, editing Markdown files with user-friendly interfaces, linking, themes, and 
+- [[breads/index|Breads]]
+- [[cakes-and-cupcakes/index|Cakes and Cupcakes]]
+- [[cookies-and-bars/index|Cookies and Bars]]
+- [[pies-and-tarts/index|Pies and Tarts]]
+- [[pastries/index|Pastries]]
+- [[savory-baked-dishes/index|Savory Baked Dishes]]
 
-### Obsidian (free)
+## How Recipes Are Organized
 
-Using [Obsidian](https://obsidian.md/) is recommended for writing/editing/creating Markdown files and building your knowledge base. It's free, has a user-friendly Markdown editing interface, and supports a variety of customizations and plugins. Obsidian's default theme and settings are recommended for beginners.
-
-Link: [https://obsidian.md/](https://obsidian.md/)
-
-### Visual Studio Code (free)
-
-Visual Studio Code (vscode) is a popular free and open source code editor.
-
-Installing the [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown) extension is highly recommended for vscode: it adds helpful Markdown features in addition to the built-in vscode Markdown support.
-
-Link: [https://code.visualstudio.com/](https://code.visualstudio.com/)
-
-### iA Writer (paid)
-
-iA Writer is a professional tool for writing documents using Markdown. It is a popular choice for serious writers wanting a distraction-free and high-quality writing and editing experience.
-
-Link: [https://ia.net/writer](https://ia.net/writer)
-
-### Text editors (free or paid)
-
-You can use any text editor capable of opening and editing Markdown files. 
-
----
-## Adding new pages
-
-You can add more pages to your website by adding more Markdown files to the `content/` folder. Take a look at [[Example doc 01]] to learn more.
-
+Each recipe belongs to one main category based on the type of baked good. Holiday and seasonal recipes stay in their regular category and can be identified with tags, such as `christmas`, `thanksgiving`, or `holiday`.
