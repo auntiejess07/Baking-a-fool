@@ -17,4 +17,4 @@ This is my baking knowledge base, where I organize recipes and baking ideas so t
 
 ## How Recipes Are Organized
 
-Each recipe belongs to one main category based on the type of baked good. Holiday and seasonal recipes stay in their regular category and can be identified with tags, such as `christmas`, `thanksgiving`, or `holiday`.
+Each recipe belongs to one main category based on the type of baked good.
