@@ -8,7 +8,7 @@ tags:
 
 # Fudgy Brownies
 
-Fudgy Brownies are a good recipe to keep in a baking collection because they offer a different flavor, texture, or technique from the other treats in this category. This page includes a starting recipe, what to watch for in the oven, and small adjustments that can help you get consistent results. Oven temperatures and pan sizes matter, so check your bake as it gets close to the suggested time.
+Fudgy Brownies are a good addition to a baking collection because they offer a different flavor, texture, or technique from other treats in this category. This page includes a starting recipe, what to watch for in the oven, and small adjustments that can help you get consistent results. Oven temperatures and pan sizes matter, so check your bake as it gets close to the suggested time.
 
 
 ![Two rich, fudgy chocolate brownies stacked on parchment paper, with crackly tops and chocolate chips](../images/fudgey-brownies.jpg)
@@ -43,11 +43,11 @@ Fudgy Brownies are a good recipe to keep in a baking collection because they off
 
 ## What makes this recipe work
 
-Fudgy brownies get their dense texture from the balance of chocolate, fat, and relatively little flour. Stirring too long after adding flour can make them less tender. The center will continue setting as the pan cools, so it is better to look for moist crumbs than a completely clean toothpick. Use a sharp knife, wiping it between cuts, for cleaner squares.
+Fudgy brownies get their dense texture from the balance of chocolate, fat, and relatively little flour. Stirring too long after adding flour can make them less tender. The center will continue setting as the pan cools, so look for moist crumbs rather than a completely clean toothpick. Use a sharp knife and wipe it between cuts for cleaner squares.
 
 ### Common problems and fixes
 
-If the brownies seem raw after cooling, they probably needed more oven time. If they are dry and crumbly, check the baking time and the size of the pan. A larger pan makes thinner brownies that bake faster.
+If the brownies seem raw after cooling, they probably needed more oven time. If they are dry and crumbly, check the baking time and pan size. A larger pan makes thinner brownies that bake faster.
 
 > **Baking note:** Start checking a few minutes before the listed time. Ovens vary, and the appearance of the edges and center is often a better guide than the timer alone.
 

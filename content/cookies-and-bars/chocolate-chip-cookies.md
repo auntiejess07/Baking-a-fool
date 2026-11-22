@@ -10,7 +10,6 @@ tags:
 
 Chocolate Chip Cookies are a good recipe to keep in a baking collection because they offer a different flavor, texture, or technique from the other treats in this category. This page includes a starting recipe, what to watch for in the oven, and small adjustments that can help you get consistent results. Oven temperatures and pan sizes matter, so check your bake as it nears the suggested time.
 
-
 ![Homemade chocolate chip cookies cooling on a baking sheet, with golden edges and melted chocolate chips](../images/chocolate-chip-cookies.jpg)
 
 
