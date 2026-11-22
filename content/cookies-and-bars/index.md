@@ -8,7 +8,7 @@ Cookies, brownies, blondies, and dessert bars belong here.
 
 ## Recipes in this category
 
-- [[chocolate-chip-cookies|Chocolate Chip Cookies ]]
+- [[chocolate-chip-cookies|Chocolate Chip Cookies]]
 - [[sugar-cookies|Sugar Cookies]]
 - [[fudgy-brownies|Fudgy Brownies]]
 - [[lemon-bars|Lemon Bars]]
