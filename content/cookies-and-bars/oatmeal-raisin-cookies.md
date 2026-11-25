@@ -11,7 +11,7 @@ tags:
 Oatmeal Raisin Cookies are a good recipe to keep in a baking collection because they offer a different flavor, texture, or technique from the other treats in this category. This page includes a starting recipe, what to watch for in the oven, and small adjustments that can help you get consistent results. Oven temperatures and pan sizes matter, so check your bake as it gets close to the suggested time.
 
 
-![Homemade oatmeal raisin cookies with golden edges, rolled oats, and plump raisins arranged on a ceramic plate](../images/oatmeal-raisin.jpg)
+![Homemade oatmeal raisin cookies with golden edges, rolled oats, and plump raisins arranged on a ceramic plate](oatmeal-raisin.jpg)
 
 ## Recipe at a glance
 

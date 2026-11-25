@@ -10,7 +10,7 @@ tags:
 
 Lemon Bars are a good recipe to keep in a baking collection because they offer a different flavor, texture, or technique from the other treats in this category. This page includes a starting recipe, what to watch for in the oven, and small adjustments that can help you get consistent results. Oven temperatures and pan sizes matter, so check your bake as it gets close to the suggested time.
 
-![Three homemade lemon bars with bright yellow filling, shortbread crust, and powdered sugar on top](../images/lemon-bars.jpg)
+![Three homemade lemon bars with bright yellow filling, shortbread crust, and powdered sugar on top](lemon-bars.jpg)
 
 
 

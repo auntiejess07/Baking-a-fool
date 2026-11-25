@@ -10,7 +10,7 @@ tags:
 
 Sugar Cookies are a good recipe to keep in a baking collection because they offer a different flavor, texture, or technique from the other treats in this category. This page includes a starting recipe, what to watch for in the oven, and small adjustments that can help you get consistent results. Oven temperatures and pan sizes matter, so check your bake as it gets close to the suggested time.
 
-![Homemade sugar cookies decorated with colorful pink, purple, mint, and white icing and rainbow sprinkles on a plate](../images/sugar-cookie.jpg)
+![Homemade sugar cookies decorated with colorful pink, purple, mint, and white icing and rainbow sprinkles on a plate](sugar-cookie.jpg)
 
 
 ## Recipe at a glance

@@ -11,7 +11,7 @@ tags:
 Fudgy Brownies are a good addition to a baking collection because they offer a different flavor, texture, or technique from other treats in this category. This page includes a starting recipe, what to watch for in the oven, and small adjustments that can help you get consistent results. Oven temperatures and pan sizes matter, so check your bake as it gets close to the suggested time.
 
 
-![Two rich, fudgy chocolate brownies stacked on parchment paper, with crackly tops and chocolate chips](../images/fudgey-brownies.jpg)
+![Two rich, fudgy chocolate brownies stacked on parchment paper, with crackly tops and chocolate chips](fudgey-brownies.jpg)
 
 
 ## Recipe at a glance
